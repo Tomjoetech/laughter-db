@@ -1,11 +1,11 @@
 /* *********************************************
 [Master Stylesheet]
 
-Template Name: Uza - Creative Agency HTML5 Template
-Template Author: Colorlib
-Template Author URL: http://colorlib.com
+Template Name: Unilag Laughter Database
+Template Author: TOmjoe
+Template Author URL: http://twitter.com/tomjoeguy
 Version: 1.0.0
-Last Update: Dec 31, 2018
+Last Update: Apr 25, 2020
 
 *********************************************
 
@@ -425,6 +425,7 @@ input:focus {
     color: #ffffff; }
     .uza-btn.btn-2:focus, .uza-btn.btn-2:hover {
       background-color: #ffffff;
+      position: relative;
       color: #1583e9; }
   .uza-btn.btn-3 {
     border: 2px solid #1583e9;
