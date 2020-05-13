@@ -1,16 +1,12 @@
 /* *********************************************
 [Master Stylesheet]
-
-Template Name: Uza - Creative Agency HTML5 Template
-Template Author: Colorlib
-Template Author URL: http://colorlib.com
+Template Name: Unilag Laughter Database
+Template Author: TOmjoe
+Template Author URL: http://twitter.com/tomjoeguy
 Version: 1.0.0
-Last Update: Dec 31, 2018
-
+Last Update: Apr 25, 2020
 *********************************************
-
 [Tables of CSS Content]
-
 + body
     - 01.0 Reboot CSS
     - 02.0 Spacing CSS
@@ -34,7 +30,6 @@ Last Update: Dec 31, 2018
     - 20.0 Contact CSS
   ---------------------------------------------
   [Color Codes]
-
   $heading: #303030; [Heading Color]
   $text: #707070; [Text Color]
   $bg-gray: #e7f2fd; [Gray Background]
@@ -44,7 +39,6 @@ Last Update: Dec 31, 2018
   $border: #ebebeb; [Border Color]
   $hover: #1583e9; [Hover Color]
   $secondary: #a6a6a6; [Secondary Color]
-
   ---------------------------------------------
   [Font Family: 'HK Grotesk']
 --------------------------------------------- */
@@ -70,12 +64,7 @@ body {
 h1,
 h2,
 h3,
-h4{
-  font-size: 1.5em;
-    background-color: #ccc;
-    margin: 150px;
-    padding: 200px;
-}
+h4,
 h5,
 h6 {
   font-family: "Aileron";
